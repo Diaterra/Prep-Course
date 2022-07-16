@@ -1,0 +1,4 @@
+Una variable es un valor que le asignamos a un elemento.
+Un String es un tipo de dato que tiene como característica la utilización de caracteres.
+Una función es un bloque de código que realiza alguna operación. Los argumentos son las variables que necesitan las funciones. Return es un tipo de función que indica que se debe devolver un valor.
+Los valores booleanos son un tipo de dato que puede tomar dos valores posibles: true o false.
